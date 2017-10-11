@@ -4,6 +4,6 @@
 Updated due to homeworks.
 
 
-Orcun Gumus
-Furkan Ozkalay
-Serkan Taskafa
+* Orcun Gumus
+* Furkan Ozkalay
+* Serkan Taskafa
