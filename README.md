@@ -2,6 +2,8 @@
 
 Homework rep
 
+Updeated for homework 2
+
 
 * Orcun Gumus
 * Furkan Ozkalay
