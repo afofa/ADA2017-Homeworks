@@ -1,5 +1,5 @@
 
-Note for homework2: **Homework 2 contains image: if you can not see it directly you should look
+**Homework 2 notebook contains image: if you can not see it directly you should look
 02 - Data from the Web/q3_explanation.jpeg for extra explanation.**
 
 
