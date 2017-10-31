@@ -24,7 +24,7 @@ Are there striking patterns for Swiss Twitter users?
 * Are there any peak in usage, very low or very high sentiment score compared to any others?
 	* When do these trends occur?
 	* Is there an important local or global event before or during these trends? *Using dataset containing important local or global events*
-	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? *Using Twitter dataset*
+	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? *Using Global Twitter dataset*
 
 ## Dataset
 
@@ -34,7 +34,7 @@ We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geoloc
 ### We might enrich our data with following datasets as well.
 
 
-**Twitter dataset:** We can get tweets following an event (tweets sent in the small period given the date) and find sentiment scores using various methods. Compare overall response of all Twitter users to overall response of Swiss twitter users, using the sentiment scores. In Twitter dataset only following information is available: username, language, tweet and date.
+**Global Twitter dataset:** We can get tweets following an event (tweets sent in the small period given the date) and find sentiment scores using various methods. Compare overall response of all Twitter users to overall response of Swiss twitter users, using the sentiment scores. In Twitter dataset only following information is available: username, language, tweet and date.
 
 
 **Instagram:** We can collect Instagram data geolocated in Switzerland. Analyze instagram usage of Swiss people, compare the results with results from analyze of Twitter usage. We can compare the results from Instagram and twitter dataset.
