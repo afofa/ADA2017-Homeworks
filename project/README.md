@@ -1,5 +1,7 @@
 # Swiss Twitter Journey
 
+## Abstract
+
 Social media has penetrated to our daily lives and occupy undeniably significant amount of time for majority of people. One service which strikes among social media is Twitter, where people can share their opinion about any matter with relatively short posts called tweets. Together with their twitter usage habits, these tweets reflect a great deal about people and the society they live in. By finding and analyzing the patterns in their Twitter usage, one can gain insights about people which are hard or even impossible to get in any other way. In the light of this discussion, our aim is to investigate Swiss Twitter usage patterns and its daily change depending on location, occurrence of important local or international events as well as analyzing diversification of usage in different parts of Switzerland.
 
 In order to achieve our aim, we will use Swiss Tweet dataset together with other several different data collections.
@@ -46,6 +48,7 @@ We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geoloc
 **Dataset containing demographic information of Switzerland across locations:**. Statistics of languages spoken in different regions of Switzerland. Swiss open data might have useful datasets.
 
 ## A list of internal milestones up until project milestone 2
+
 Week 1
 01.11.2017 - 07.11.2017
 Search and decide datasets to use for enriching.
@@ -69,6 +72,7 @@ Collect codes, results and analyses up to now, display them for milestone 2.
 
 
 ## Questions for TAs
+
 Q1: It is hard to manage all of your codebase in a jupyter notebook, can we have separate scripts other than the jupyter notebook that will be graded? 
 
 Q2: Can we use external datasets, or even data that we will collect using various APIs or libraries (for example, data from instagram)?
