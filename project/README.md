@@ -18,13 +18,13 @@ Are there striking patterns for Swiss Twitter users?
 	* How different are tweets sent in Zurich than tweets sent in Lausanne?
 
 * How languages are represented in tweets?
-	* Depending on location, how ratios of languages of tweets change? H
-	* How do these change in different regions of Switzerland depending on official language (German, French, Italian, Romansh) of the region? (Use dataset about demographics of Switzerland)
-	* Are there a significant number of tweets sent in languages which are not official languages in Switzerland? If there are, which languages are well represented and in which locations these tweets are sent? Can any information be inferred about immigration by examining language of tweets? *Using dataset about demographics of Switzerland*
+	* Depending on location, how ratios of languages of tweets change?
+	* How do these change in different regions of Switzerland depending on official language (German, French, Italian, Romansh) of the region? (*Use dataset about demographics of Switzerland*)
+	* Are there a significant number of tweets sent in languages which are not official languages in Switzerland? If there are, which languages are well represented and in which locations these tweets are sent? Can any information be inferred about immigration by examining language of tweets? (*Using dataset about demographics of Switzerland*)
 * Are there any peak in usage, very low or very high sentiment score compared to any others?
 	* When do these trends occur?
-	* Is there an important local or global event before or during these trends? *Using dataset containing important local or global events*
-	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? *Using Global Twitter dataset*
+	* Is there an important local or global event before or during these trends? (*Using dataset containing important local or global events*)
+	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? (*Using Global Twitter dataset*)
 
 ## Dataset
 
@@ -46,8 +46,6 @@ We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geoloc
 **Dataset containing demographic information of Switzerland across locations:**. Statistics of languages spoken in different regions of Switzerland. Swiss open data might have useful datasets.
 
 ## A list of internal milestones up until project milestone 2
-Week #
-Targets
 Week 1
 01.11.2017 - 07.11.2017
 Search and decide datasets to use for enriching.
