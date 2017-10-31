@@ -2,9 +2,9 @@
 
 Here you can find possible data sources for our project. More data source may be added in time.
 
-### Twitter
+## Twitter
 
-#### Tweet - User 
+### Tweet - User 
 
 1. id bigint(20) UNSIGNED No None
 2. userId bigint(20 UNSIGNED No None
@@ -27,11 +27,13 @@ Here you can find possible data sources for our project. More data source may be
 19. statusesCount int(10) UNSIGNED Yes NULL
 20. userLocation varchar(200) utf8_general_ci Yes NULL
 
+#### Example: 
+
 [23:10, 10/31/2017] Furkan Özkalay: 776821779457335297	104941024	2016-09-16 16:35:19	#Sortir : Enquête à Dole, Bergers du Jura, Beignets à Fougerolles, et Lucie et les Chevaux à Nans-sous-Saint-Anne https://t.co/LTErsomKBT	\N	\N	3ea75b7392b74cae	\N	18777	 	47.1425	6.19758	Twitter Web Client	http://twitter.com	France3Franche-Comté	F3FrancheComte	9845	381	17440	Besançon
 
-### Instagram
+## Instagram
 
-#### Users 
+### Users 
 
 1. uid
 2. username
@@ -43,7 +45,13 @@ Here you can find possible data sources for our project. More data source may be
 8. totalMedia
 9. totalFollows
 
-#### Medias 
+#### Example:
+
+"uid","username","profilePicture","fullName","updatedAt","createdAt","gender","isPublic","totalFollowers","totalMedia","totalFollows","mediasUpdatedAt","userType","pastLikesFetched"
+"2928202032","kolianagorniy","https://scontent.cdninstagram.com/t51.2885-19/s150x150/14591098_1829519457305273_2288467603053608960_a.jpg","kolia nagorniy","2017-08-11 15:11:01.915401","2017-08-11 15:11:01.915398","","","","","","","",""
+
+
+### Medias 
 
 1. uid
 2. ownerUserUid
@@ -58,3 +66,8 @@ Here you can find possible data sources for our project. More data source may be
 11. commentCount
 12. tags
 13. locationId
+
+#### Example:
+
+"uid","ownerUserUid","mediaCreatedTime","latitude","longitude","imagePath","updatedAt","createdAt","country","level1","level2","likeCount","commentCount","likesUpdatedAt","commentsUpdatedAt","tags","locationId","ownerUserType","isSpam","link","fromInstauser","fromLocation","fromtag"
+"1580704493023205060_1825722043","1825722043","2017-08-13 20:04:41.000000","38.36621","27.27676","https://scontent.cdninstagram.com/t51.2885-15/e35/20635529_1537909072898818_3363926821266522112_n.jpg","2017-08-15 11:15:32.026397","2017-08-15 08:31:18.855937","Turkey","İzmir","Buca","97","0","","","[""wedding""]","237194391","","","https://www.instagram.com/p/BXvylyJgxbE/","TRUE","",""
