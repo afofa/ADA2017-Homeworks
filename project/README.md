@@ -44,3 +44,12 @@ We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geoloc
 
 
 **Dataset containing demographic information of Switzerland across locations:**. Statistics of languages spoken in different regions of Switzerland. Swiss open data might have useful datasets.
+
+## Milestones 
+
+| Week          | Targets     |
+| ------------- |-------------|
+| Week 1 **01.11 - 07.11**      | Search and decide datasets to use for enriching <br/> Load and preprocess data. <br/> Exploratory data analysis, data cleaning and wrangling |
+| Week 2 **07.11 - 14.11**      | Start answering research questions. <br/> Merge datasets for enriching when necessary.      |
+| Week 3 **14.11 - 21.11** | Main part of scripts and notebook is done. <br/> Search for and decide how to visualize data effectively.    |
+| Week 4 **21.11 - 28.11** | Get temporary results and analyze. <br/> Collect codes, results and analyses up to now, display them for milestone 2.    |
