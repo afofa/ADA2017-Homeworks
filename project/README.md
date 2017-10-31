@@ -28,11 +28,19 @@ Are there striking patterns for Swiss Twitter users?
 
 ## Dataset
 
-We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geolocated in Switzerland and collected between 2010 and 2016. Most importantly text of tweet, date, username, longitude, and latitude (geolocation), and sentiment score are given in the dataset. The following information is also given in the dataset.
+We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geolocated in Switzerland and collected between 2010 and 2016. Most importantly text of tweet, date, username, longitude, and latitude (geolocation), and sentiment score are given in the dataset. The following information is also given in the dataset. *DataStructure.md is for additional information about the structure of data.*
 
 
 ### We might enrich our data with following datasets as well.
+
+
 **Twitter dataset:** We can get tweets following an event (tweets sent in the small period given the date) and find sentiment scores using various methods. Compare overall response of all Twitter users to overall response of Swiss twitter users, using the sentiment scores. In Twitter dataset only following information is available: username, language, tweet and date.
+
+
 **Instagram:** We can collect Instagram data geolocated in Switzerland. Analyze instagram usage of Swiss people, compare the results with results from analyze of Twitter usage. We can compare the results from Instagram and twitter dataset.
+
+
 **Dataset containing important local or global events:** (local: festival in Lausanne, elections in Switzerland; global: terrorist attack in Paris, US elections etc.) where date is given, analyze how twitter usage is different during or following these events. GDELT or UCDP datasets might be useful. For enriching only following information are necessary: event, location, date.
+
+
 **Dataset containing demographic information of Switzerland across locations:**. Statistics of languages spoken in different regions of Switzerland. Swiss open data might have useful datasets.
