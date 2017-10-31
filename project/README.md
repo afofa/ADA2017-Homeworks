@@ -44,3 +44,35 @@ We will mainly use Swiss Tweets dataset. It consists of 22,222,184 tweets geoloc
 
 
 **Dataset containing demographic information of Switzerland across locations:**. Statistics of languages spoken in different regions of Switzerland. Swiss open data might have useful datasets.
+
+## A list of internal milestones up until project milestone 2
+Week #
+Targets
+Week 1
+01.11.2017 - 07.11.2017
+Search and decide datasets to use for enriching.
+Load and preprocess data.
+Exploratory data analysis, data cleaning and wrangling.
+
+Week 2
+07.11.2017 - 14.11.2017
+Start answering research questions.
+Merge datasets for enriching when necessary.
+
+Week 3
+14.11.2017 - 21.11.2017
+Main part of scripts and notebook is done.
+Search for and decide how to visualize data effectively.
+
+Week 4
+21.11.2017 - 28.11.2017
+Get temporary results and analyze.
+Collect codes, results and analyses up to now, display them for milestone 2.
+
+
+## Questions for TAs
+Q1: It is hard to manage all of your codebase in a jupyter notebook, can we have separate scripts other than the jupyter notebook that will be graded? 
+
+Q2: Can we use external datasets, or even data that we will collect using various APIs or libraries (for example, data from instagram)?
+
+Q3: How long our analyses and results should be? Considering high number of questions we have, is it more than what is asked?
