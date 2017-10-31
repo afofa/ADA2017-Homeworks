@@ -1,8 +1,8 @@
 # Swiss Twitter Journey
 
-Our aim is to investigate Swiss Twitter usage patterns and its daily change depending on location, occurrence of local or international events as well as analyzing diversification of usage in different parts of Switzerland.
+Social media has penetrated to our daily lives and occupy undeniably significant amount of time for majority of people. One service which strikes among social media is Twitter, where people can share their opinion about any matter with relatively short posts called tweets. Together with their twitter usage habits, these tweets reflect a great deal about people and the society they live in. By finding and analyzing the patterns in their Twitter usage, one can gain insights about people which are hard or even impossible to get in any other way. In the light of this discussion, our aim is to investigate Swiss Twitter usage patterns and its daily change depending on location, occurrence of important local or international events as well as analyzing diversification of usage in different parts of Switzerland.
 
-In order to achieve our aim, we will use Swiss Tweet dataset together with other several different data collections. 
+In order to achieve our aim, we will use Swiss Tweet dataset together with other several different data collections.
 
 ## Research questions
 
