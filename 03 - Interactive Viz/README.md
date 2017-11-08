@@ -1,5 +1,7 @@
 # 03 - Interactive Viz
 
+To see maps: ** http://nbviewer.jupyter.org/github/guemues/ADA2017-Homeworks/blob/master/03%20-%20Interactive%20Viz/hw3.ipynb **
+
 ## Deadline
 
 Wednesday November 8th, 2017 at 11:59PM
