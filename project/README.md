@@ -1,8 +1,10 @@
 # Swiss Twitter Journey
 
-Our aim is to investigate Swiss Twitter usage patterns and its daily change depending on location, occurrence of local or international events as well as analyzing diversification of usage in different parts of Switzerland.
+## Abstract
 
-In order to achieve our aim, we will use Swiss Tweet dataset together with other several different data collections. 
+Social media has penetrated to our daily lives and occupy undeniably significant amount of time for majority of people. One service which strikes among social media is Twitter, where people can share their opinion about any matter with relatively short posts called tweets. Together with their twitter usage habits, these tweets reflect a great deal about people and the society they live in. By finding and analyzing the patterns in their Twitter usage, one can gain insights about people which are hard or even impossible to get in any other way. In the light of this discussion, our aim is to investigate Swiss Twitter usage patterns and its daily change depending on location, occurrence of important local or international events as well as analyzing diversification of usage in different parts of Switzerland.
+
+In order to achieve our aim, we will use Swiss Tweet dataset together with other several different data collections.
 
 ## Research questions
 
@@ -18,13 +20,13 @@ Are there striking patterns for Swiss Twitter users?
 	* How different are tweets sent in Zurich than tweets sent in Lausanne?
 
 * How languages are represented in tweets?
-	* Depending on location, how ratios of languages of tweets change? H
-	* How do these change in different regions of Switzerland depending on official language (German, French, Italian, Romansh) of the region? (Use dataset about demographics of Switzerland)
-	* Are there a significant number of tweets sent in languages which are not official languages in Switzerland? If there are, which languages are well represented and in which locations these tweets are sent? Can any information be inferred about immigration by examining language of tweets? *Using dataset about demographics of Switzerland*
+	* Depending on location, how ratios of languages of tweets change?
+	* How do these change in different regions of Switzerland depending on official language (German, French, Italian, Romansh) of the region? (*Use dataset about demographics of Switzerland*)
+	* Are there a significant number of tweets sent in languages which are not official languages in Switzerland? If there are, which languages are well represented and in which locations these tweets are sent? Can any information be inferred about immigration by examining language of tweets? (*Using dataset about demographics of Switzerland*)
 * Are there any peak in usage, very low or very high sentiment score compared to any others?
 	* When do these trends occur?
-	* Is there an important local or global event before or during these trends? *Using dataset containing important local or global events*
-	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? *Using Global Twitter dataset*
+	* Is there an important local or global event before or during these trends? (*Using dataset containing important local or global events*)
+	* How is an important local or global event received by Swiss Twitter users? Is there a difference between their response and response of global Twitter users? (*Using Global Twitter dataset*)
 
 ## Dataset
 
